@@ -4,7 +4,8 @@ class Hash
     if arguments == "Panama"
       arr << "red-footed tortoise"
     else arguments == "Madagascar"
-      arr << "aye-aye", "tomato frog"
+      arr << "aye-aye"
+      arr << "tomato frog"
     end
   end
 end
