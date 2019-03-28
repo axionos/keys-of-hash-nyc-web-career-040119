@@ -11,6 +11,5 @@ class Hash
       arr << "kangaroo"
       arr << "koala"
     end
-
   end
 end
