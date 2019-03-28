@@ -10,6 +10,6 @@ class Hash
     #   arr << "sugar glider"
     #   arr << "kangaroo"
     #   arr << "koala"
-    end
+    # end
   end
 end
