@@ -8,6 +8,7 @@ class Hash
         end
       end
     end
+    return keys
     # arguments.each do |arg|
     #   self.each do |k, v|
     #     if v == arg
