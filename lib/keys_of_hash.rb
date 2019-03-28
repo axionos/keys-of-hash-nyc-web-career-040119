@@ -2,7 +2,9 @@ class Hash
   def keys_of(*arguments)
     keys = []
     arguments.each do |arg|
-
+      self.each do |k, v|
+        
+      end
     end
     # arguments.each do |arg|
     #   self.each do |k, v|
