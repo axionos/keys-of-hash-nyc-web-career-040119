@@ -1,6 +1,6 @@
 class Hash
   def keys_of(*arguments)
-    arr = Array.new
+    arr = []
     # if arguments == "Panama"
     #   arr << "red-footed tortoise"
     # elsif arguments == "Madagascar"
