@@ -1,8 +1,8 @@
 class Hash
   def keys_of(*arguments)
-    arr = []
+    keys = []
     arguments.each do |arg|
-      
+
     end
     # arguments.each do |arg|
     #   self.each do |k, v|
