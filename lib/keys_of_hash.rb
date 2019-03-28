@@ -3,7 +3,9 @@ class Hash
     keys = []
     arguments.each do |arg|
       self.each do |k, v|
-        
+        if v == arg
+          keys << k
+        end
       end
     end
     # arguments.each do |arg|
