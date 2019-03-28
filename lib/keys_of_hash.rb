@@ -3,10 +3,10 @@ class Hash
     arr = Array.new
     if arguments == "Panama"
       arr << "red-footed tortoise"
-    else arguments == "Madagascar"
+    elsif arguments == "Madagascar"
       arr << "aye-aye"
       arr << "tomato frog"
-    else arguments == "Australia"
+    elsif arguments == "Australia"
       arr << "sugar glider"
       arr << "kangaroo"
       arr << "koala"
