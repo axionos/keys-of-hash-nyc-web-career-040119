@@ -3,6 +3,8 @@ class Hash
     arr = Array.new
     if arguments == "Panama"
       arr << "red-footed tortoise"
+    else arguments == "Madagascar"
+
     end
   end
 end
