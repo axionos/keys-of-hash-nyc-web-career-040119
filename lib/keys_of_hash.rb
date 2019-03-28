@@ -1,6 +1,9 @@
 class Hash
   def keys_of(*arguments)
     arr = []
+    arguments.each do |arg|
+
+    end
     # if arguments == "Panama"
     #   arr << "red-footed tortoise"
     # elsif arguments == "Madagascar"
@@ -11,5 +14,6 @@ class Hash
     #   arr << "kangaroo"
     #   arr << "koala"
     # end
+
   end
 end
