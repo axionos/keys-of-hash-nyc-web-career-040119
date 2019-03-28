@@ -6,6 +6,10 @@ class Hash
     else arguments == "Madagascar"
       arr << "aye-aye"
       arr << "tomato frog"
+    else arguments == "Australia"
+      arr << "sugar glider"
+      arr << "kangaroo"
+      arr << koala
     end
   end
 end
