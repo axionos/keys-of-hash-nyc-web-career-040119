@@ -9,7 +9,7 @@ class Hash
     else arguments == "Australia"
       arr << "sugar glider"
       arr << "kangaroo"
-      arr << koala
+      arr << "koala"
     end
   end
 end
