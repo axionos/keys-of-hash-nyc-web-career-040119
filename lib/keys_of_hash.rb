@@ -10,7 +10,6 @@ class Hash
     #   arr << "sugar glider"
     #   arr << "kangaroo"
     #   arr << "koala"
-    # elsif arguments ==
     # end
   end
 end
